@@ -21,6 +21,7 @@ void UTest::BeginPlay()
 
     //DEFINE_LOG_CATEGORY(PlayerError);
     //test
+    //Test2
 
     class players
     {
